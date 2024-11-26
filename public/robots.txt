@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rti-robotech.cz/sitemap.xml
